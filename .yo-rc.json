@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "remounting-webpart",
+    "libraryId": "d9cc83d7-ff1e-4bd1-a58b-4b836107c410",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "remounting-webpart",
+    "solutionShortDescription": "remounting-webpart description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "remounting-webpart-client-side-solution",
+    "id": "d9cc83d7-ff1e-4bd1-a58b-4b836107c410",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "remounting-webpart description"
+      },
+      "longDescription": {
+        "default": "remounting-webpart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "remounting-webpart Feature",
+        "description": "The feature that activates elements of the remounting-webpart solution.",
+        "id": "8a1d019a-d25a-4d37-9541-d7bbb0ec93f4",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/remounting-webpart.sppkg"
+  }
+}
